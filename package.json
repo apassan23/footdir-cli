@@ -1,0 +1,19 @@
+{
+  "name": "footdir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./bin/footdir.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Passan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "commander": "^8.1.0",
+    "conf": "^10.0.2",
+    "inquirer": "^8.1.2"
+  }
+}
